@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CodeNarc.BracesForTryCatchFinally" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="catchOnSameLineAsClosingBrace" value="true" />
+      <option name="catchOnSameLineAsOpeningBrace" value="true" />
+      <option name="finallyOnSameLineAsClosingBrace" value="true" />
+      <option name="finallyOnSameLineAsOpeningBrace" value="true" />
+    </inspection_tool>
+    <inspection_tool class="CodeNarc.CompileStatic" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="doNotApplyToClassNames" value="*Spec,*Specification" />
+      <option name="doNotApplyToFileNames" value="*.gradle" />
+    </inspection_tool>
+    <inspection_tool class="CodeNarc.NoDef" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="doNotApplyToFilesMatching" value=".*Controller\.groovy" />
+    </inspection_tool>
+    <inspection_tool class="CodeNarc.VariableTypeRequired" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>

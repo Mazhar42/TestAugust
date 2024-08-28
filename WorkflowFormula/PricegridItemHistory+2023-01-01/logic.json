@@ -1,0 +1,15 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementName" : "BuildSteps",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "formulaNature" : "wfStepLogic",
+  "label" : "Pricegrid Item History",
+  "status" : "ACTIVE",
+  "uniqueName" : "PricegridItemHistory",
+  "validAfter" : "2023-01-01"
+}

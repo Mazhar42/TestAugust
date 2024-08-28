@@ -1,0 +1,15 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "WF",
+    "elementName" : "WF",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "status" : "ACTIVE",
+  "uniqueName" : "quote",
+  "validAfter" : "2020-01-01",
+  "workflowType" : "quote"
+}

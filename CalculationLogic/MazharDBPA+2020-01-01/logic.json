@@ -1,0 +1,22 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementName" : "Chart",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "formatType" : "COMPLEX",
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "overridden" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "inputDescriptors" : [ ],
+  "label" : "MazharDBPA",
+  "status" : "ACTIVE",
+  "uniqueName" : "MazharDBPA",
+  "validAfter" : "2020-01-01"
+}

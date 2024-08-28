@@ -1,0 +1,19 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementName" : "DatamartInput",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "label" : "Dashboard Datamart Configurator",
+  "status" : "ACTIVE",
+  "uniqueName" : "Dashboard_Datamart_Configurator",
+  "validAfter" : "2020-01-01"
+}

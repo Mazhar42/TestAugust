@@ -1,0 +1,9 @@
+{
+  "elements" : [ ],
+  "formulaNature" : "rebateAgreementHeader",
+  "inputDescriptors" : [ ],
+  "label" : "Simple Rebate Header Logic",
+  "status" : "ACTIVE",
+  "uniqueName" : "SimpleRebateHeaderLogic",
+  "validAfter" : "2010-01-01"
+}

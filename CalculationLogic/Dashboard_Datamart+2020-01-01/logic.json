@@ -1,0 +1,20 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "New Element",
+    "elementName" : "NewElement",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "label" : "Dashboard Datamart",
+  "status" : "ACTIVE",
+  "uniqueName" : "Dashboard_Datamart",
+  "validAfter" : "2020-01-01"
+}

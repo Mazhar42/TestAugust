@@ -1,0 +1,16 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "WF",
+    "elementName" : "WF",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "label" : "pricegriditem",
+  "status" : "ACTIVE",
+  "uniqueName" : "pricegriditem",
+  "validAfter" : "2020-01-01",
+  "workflowType" : "pricegriditem"
+}

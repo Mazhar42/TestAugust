@@ -1,0 +1,46 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ "init" ],
+    "elementLabel" : "ProductName",
+    "elementName" : "ProductName_CDL",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "INFO",
+    "displayOptions" : 16,
+    "elementGroups" : [ "row" ],
+    "elementName" : "inputProduct",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ "row" ],
+    "elementLabel" : "ProductName",
+    "elementName" : "ProductName",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "formulaNature" : "paDataLoad",
+  "label" : "DL Product Name",
+  "status" : "ACTIVE",
+  "uniqueName" : "DL_ProductName",
+  "validAfter" : "2020-01-01"
+}

@@ -1,0 +1,20 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Configurator",
+    "elementName" : "Configurator",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "label" : "Dashboard Master Configurator",
+  "status" : "ACTIVE",
+  "uniqueName" : "Dashboard_Master_Configurator",
+  "validAfter" : "2020-01-01"
+}

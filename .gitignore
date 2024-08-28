@@ -28,3 +28,8 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+config.json
+pom.xml
+.info
+demo-ark-work.iml
+.gitignore
